@@ -1,4 +1,4 @@
-class loriini < Formula
+class Loriini < Formula
   desc "A commandline color picker"
   homepage "https://github.com/kolja/loriini"
   url "https://github.com/kolja/loriini/releases/download/v0.1.2/loriini-x86_64-apple-darwin.tar.gz"
