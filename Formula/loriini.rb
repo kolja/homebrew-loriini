@@ -6,11 +6,10 @@ class Loriini < Formula
   license "MIT"
 
   def install
-    system "tar", "-xzf", "loriini-x86_64-apple-darwin.tar.gz"
     bin.install "loriini"
   end
 
   test do
-    system "#{bin}/mybinary", "--version"
+    system "#{bin}/loriini", "--version"
   end
 end
