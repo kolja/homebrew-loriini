@@ -2,7 +2,7 @@ class Loriini < Formula
   desc "A commandline color picker"
   homepage "https://github.com/kolja/loriini"
   url "https://github.com/kolja/loriini/releases/download/v0.1.2/loriini-x86_64-apple-darwin.tar.gz"
-  sha256 "326ade6f4a3749bfb0a2ac71c22041ac1bf2ccfd0592adf9664dbe4a7c11a4a1"
+  sha256 "9d57b73857cfb7f4e7af0af9754ba6e90e7dfdddca68a8e0a2a836fc1c2d16aa"
   license "MIT"
 
   def install
