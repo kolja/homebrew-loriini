@@ -3,12 +3,12 @@ class Loriini < Formula
   homepage "https://github.com/kolja/loriini"
   license "MIT"
 
-  VERSION  = "0.1.7"
+  VERSION  = "0.1.8"
   BASE_URL = "https://github.com/kolja/loriini/releases/download"
 
-  SHA256_DARWIN_ARM = "1cdc006984686dbc3abd6444a95e1f0bce0204660b663546f8f5fb3acde5d367"
-  SHA256_DARWIN_X86 = "1273b96371936cd2cba99e49e6e9ab0edc2e62d4b6f285dc43d932b914e18a8b"
-  SHA256_LINUX_X86  = "3e4261aa2fba161a53a74774e0d0a5521722e0759da55b18fdfa23ba09348cd0"
+  SHA256_DARWIN_ARM = "ec7c37bed134cc15b825ce159d74cd2e9914a506c49a70415a532a123598b173"
+  SHA256_DARWIN_X86 = "760648d8873ca80212757f6807782b09c61e3bf9f911422f8a32ff0a9505da30"
+  SHA256_LINUX_X86  = "0fc185db6d148b6e04c56c17a4183538e3d0053a8a0cdf933cd996de01293365"
 
   version VERSION
 
